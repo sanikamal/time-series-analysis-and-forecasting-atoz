@@ -1,3 +1,5 @@
+# Time Series Analysis and Forecasting using Python AtoZ
+![Time series](images/time-series.jpg)
 ## What is Time Series ?
 **Time Series** is a sequence of well-defined data points measured at consistent time intervals over a period of time. Data collected on an ad-hoc basis or irregularly does not form a time series.
 
