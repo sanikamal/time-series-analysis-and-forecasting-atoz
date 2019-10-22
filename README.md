@@ -17,3 +17,7 @@
 **Time series forecasting** is the use of a model to predict future values based on previously observed values.
 ## What is Time Series Segmentation ?
 **Time-series segmentation** is a method of time-series analysis in which an input time-series is divided into a sequence of discrete segments in order to reveal the underlying properties of its source.
+
+## Contents
+### Time Series Forecasting
+- [Common patterns](common_patterns.ipynb)
