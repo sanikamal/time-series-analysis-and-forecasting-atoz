@@ -21,3 +21,8 @@
 ## Contents
 ### Time Series Forecasting
 - [Common patterns](common_patterns.ipynb)
+- [Naive Forecasting](naive_forecasting.ipynb)
+- [Moving Average](moving_average.ipynb)
+- [Time Windows](time_windows.ipynb)
+- [Forecasting with Machine Learning](forecasting_with_machine_learning.ipynb)
+- [Forecasting with RNN](forecasting_with_rnn.ipynb)
