@@ -11,7 +11,7 @@
 - Each time unit within the time interval has at most one data point
 
 ## What is Time Series Analysis ?
-**Time series analysis** comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data.
+**Time series analysis** comprises methods for analyzing time series data in order to extract meaningful summary and statistical information from points arranged in chronological order. It is done to diagnose past behavior as well as to predict future behavior.
 
 ## What is Time Series Forecasting ?
 **Time series forecasting** is the use of a model to predict future values based on previously observed values.
